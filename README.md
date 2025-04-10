@@ -4,7 +4,7 @@ This repository provides the Python codes used for the numerical experiments des
 > *Bounds in Wasserstein Distance for Locally Stationary Functional Time Series*
 > 
 > by Jan N. Tinio, Mokhtar Z. Alaya and Salim Bouzebda
-> arXiv link: 
+> arXiv link: https://arxiv.org/abs/2504.06453
 > 
 ## Introduction
 A brief introduction about the folders and files:
@@ -16,7 +16,7 @@ A brief introduction about the folders and files:
 
 * `models/`: python files containing all the used illustrated models.
 
-* `notebooks/`: notebooks for implementing experiments on synthetic and real-world data.
+* `notebooks/`: notebooks for implementing synthetic and real-world data experiments.
 
 ## Requirements
 Python: > 3.10
@@ -24,7 +24,7 @@ Pytorch
 Sckit-Learn
 
 ## Reproducibility
-* You can run the provided notebooks to reproduce the results.
+* You can just run the notebooks provided to reproduce the results.
 
 ## Citation
 If you use this toolbox in your research and find it useful, please cite:
@@ -33,6 +33,7 @@ If you use this toolbox in your research and find it useful, please cite:
   title={Bounds in Wasserstein Distance for Locally Stationary Functional Time Series},
   author={J.N. Tinio, M. Z. Alaya and S. Bouzebda},
   journal={arXiv preprint },
+  doi = {https://doi.org/10.48550/arXiv.2504.06453},
   year={2025}
 }
 ```
